@@ -1,3 +1,7 @@
+boto3
+numpy
+pandas
+
 ### scipy-notebook
 
 beautifulsoup4==4.8.*
@@ -11,7 +15,6 @@ ipywidgets==7.5.*
 matplotlib==3.1.*
 numba==0.45.*
 numexpr==2.6.*
-pandas==0.25.*
 patsy==0.5.*
 protobuf==3.9.*
 scikit-image==0.15.*
